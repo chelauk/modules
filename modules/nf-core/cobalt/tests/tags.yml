@@ -1,0 +1,2 @@
+cobalt:
+  - "modules/nf-core/cobalt/**"
